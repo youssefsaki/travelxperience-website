@@ -4,13 +4,13 @@ This repository contains the code for the TravelXperience website, a comprehensi
 
 ### Features
 
-<h4>Responsive Design: </h4>  Enjoy a seamless browsing experience across various devices, including desktops, tablets, and smartphones.
+Responsive Design:  Enjoy a seamless browsing experience across various devices, including desktops, tablets, and smartphones.
 
 ### Installation
 
-<h4>Clone The Repository: </h4>`git clone https://github.com/your-username/travelxperience-website.git`
-<h4>Navigate to the project directory:</h4>`cd travelxperience-website`
-Open The <h4>index.html</h4> file in your preferred web browser.
+Clone The Repository: `git clone https://github.com/your-username/travelxperience-website.git`
+Navigate to the project directory:`cd travelxperience-website`
+Open The index.htmlfile in your preferred web browser.
 
 ### Contributing
 
