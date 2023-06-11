@@ -6,6 +6,10 @@ This repository contains the code for the TravelXperience website, a comprehensi
 
 Responsive Design:  Enjoy a seamless browsing experience across various devices, including desktops, tablets, and smartphones.
 
+### Screenshots
+
+<img src='./pics/Screenshot%20from%202023-06-11%2017-36-00.png' alt='This is A Screenshot For My Website' />
+
 ### Installation
 
 Clone The Repository: `git clone https://github.com/your-username/travelxperience-website.git`
